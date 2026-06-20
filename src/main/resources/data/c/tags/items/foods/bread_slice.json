@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "everythingfood:bread_slice",
+    "createfood:bread_slice",
+    "moredelight:bread_slice"
+  ]
+}

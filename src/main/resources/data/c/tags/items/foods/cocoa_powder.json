@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "everythingfood:cocoa_powder",
+    "create_confectionery:cocoa_powder",
+    "createfood:cocoa_powder"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "everythingfood:hot_chocolate_bottle",
+    "create_confectionery:hot_chocolate_bottle",
+    "createfood:hot_chocolate_bottle"
+  ]
+}

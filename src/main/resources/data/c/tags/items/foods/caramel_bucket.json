@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "create_confectionery:caramel_bucket",
+    "createfood:caramel_bucket"
+  ]
+}
